@@ -162,7 +162,7 @@ const App = () => {
                 <div className="absolute top-[25%] left-1/2 transform -translate-x-1/2 w-[60%] flex justify-center">
                   <img 
                     src={previewImage} 
-                    alt="Custom design" 
+                    alt=" Add Custom design" 
                     className="max-h-32 object-contain"
                   />
                 </div>

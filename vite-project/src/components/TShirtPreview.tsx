@@ -199,7 +199,7 @@ const TShirtPreview: React.FC<TShirtPreviewProps> = ({
             >
               <img
                 src={previewImage}
-                alt="Custom design"
+                alt=" Add Custom design"
                 className="max-h-32 object-contain rounded-xl shadow-md"
                 draggable="false"
               />
